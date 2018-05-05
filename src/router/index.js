@@ -6,7 +6,7 @@ import results from '@/views/results'
 
 Vue.use(Router)
 
-console.log(12323432533)
+console.log('hello test')
 
 export default new Router({
   mode: 'history',
