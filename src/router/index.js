@@ -5,7 +5,7 @@ import setting from '@/views/setting'
 import results from '@/views/results'
 
 Vue.use(Router)
-
+console.log()
 export default new Router({
   mode: 'history',
   routes: [
